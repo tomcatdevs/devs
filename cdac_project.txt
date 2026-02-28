@@ -1,0 +1,8 @@
+working on cdac various projects based on
+- springboot
+- microservices
+- docker
+- redis
+- kafka
+- react
+- spring security
